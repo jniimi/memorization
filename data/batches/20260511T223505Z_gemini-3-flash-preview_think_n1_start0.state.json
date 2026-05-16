@@ -1,0 +1,25 @@
+{
+  "stem": "20260511T223505Z_gemini-3-flash-preview_think_n1_start0",
+  "batch_name": "batches/x0vhf8dlruiozgsnh1jqpo8gvwokr956hhl1",
+  "uploaded_file": "files/btaym0nlrs1t",
+  "model": "gemini-3-flash-preview",
+  "reasoning": true,
+  "master": "20260511T112255Z_cs-ai_log10_pilot.parquet",
+  "master_path": "data/processed/20260511T112255Z_cs-ai_log10_pilot.parquet",
+  "per_tier": 1,
+  "start": 0,
+  "seed": 42,
+  "max_tokens": 4096,
+  "n_requests": 35,
+  "tier_info": {
+    "s1_10-32": 1,
+    "s2_33-100": 1,
+    "s3_101-316": 1,
+    "s4_317-1000": 1,
+    "s5_1001-3162": 1,
+    "s6_3163plus": 1
+  },
+  "submitted_at": "20260511T223505Z",
+  "jsonl_input": "data/batches/20260511T223505Z_gemini-3-flash-preview_think_n1_start0.input.jsonl",
+  "key_index": "data/batches/20260511T223505Z_gemini-3-flash-preview_think_n1_start0.keys.json"
+}

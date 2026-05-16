@@ -1,0 +1,9 @@
+{
+  "GEM":    "data/runs/1778510977_gemini-3-flash-preview_n200_start0.parquet",
+  "GEM-T":  "data/runs/1778542240_gemini-3-flash-preview_think_n200_start0_batch.parquet",
+  "mini":   "data/runs/1778506258_gpt-5.4-mini_n200_start0.parquet",
+  "mini-T": "data/runs/gpt-5.4-mini_think_log10_merged_n200.parquet",
+  "full":   "data/runs/1778508164_gpt-5.4_n200_start0.parquet",
+  "DS":     "data/runs/1778505597_deepseek-v4-flash_n200_start0.parquet",
+  "DS-T":   "data/runs/1778545800_deepseek-v4-flash_think_n200_start0.parquet"
+}
